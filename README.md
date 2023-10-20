@@ -62,11 +62,7 @@ For more details, you can explore the Jupyter Notebook or Python script provided
 
 ### Author
 
-[Your Name]
-
-### License
-
-This project is licensed under the [Your License] license.
+Amario Fausta
 
 ---
 
